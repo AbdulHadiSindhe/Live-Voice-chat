@@ -1,0 +1,17 @@
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #FFFFFF; /* White background for the root */
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevent scrollbars */
+  background-color: #FFFFFF; /* White background for body */
+  /* display: flex, align-items, justify-content removed as content is absolutely/fixed positioned */
+}
